@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Esha
+- 👋 Hi, I’m Esha Jawade
 - 👀 I’m interested in Software Development
 
 <!---
