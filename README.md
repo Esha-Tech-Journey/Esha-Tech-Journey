@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Esha Jawade
-- 👀 I’m interested in Software Development
+-  I’m interested in Software Development
 
 <!---
 Esha-Tech-Journey/Esha-Tech-Journey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
