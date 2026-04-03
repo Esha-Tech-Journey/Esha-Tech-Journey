@@ -1,16 +1,27 @@
 - 👋 Hi, I’m Esha Jawade
+I'm a Junior Software Engineer at EPAM with a strong focus on backend development, API engineering, and scalable system design. I enjoy building reliable software systems and solving real-world problems using clean, efficient, and maintainable code. My primary stack revolves around Python and modern backend frameworks, where I design and develop RESTful services, integrate systems, and work with databases to build scalable applications.
 
-- Introduction: Esha Jawade a Computer Science Engineering student at Sushila Devi Bansal College of Technology, Indore.
-- Skills: Proficient in English and communication, excels in collaborative environments.
-- Objective: Seeking an internship or experiential opportunity as a Python Developer.
-- Technical Foundation: Knowledgeable in C, C++, Java, and Python, focusing on backend development using Python.
-- Goal: Aspires to develop an application leveraging Python's capabilities.
-- Attributes: Committed to responsibility and dedication, embraces continuous learning.
-- Current Endeavor: Pursuing the Google IT Automation with Python program to enhance skills.
-- Invitation: Open to connecting and contributing to impactful projects in the tech world.
+I'm particularly interested in understanding how different components of a system work together—from API design to deployment and infrastructure. At EPAM, I work in a collaborative Agile environment, contributing to backend services, improving API functionality, and following best practices such as code reviews, testing, and CI/CD-driven development.
 
----
-<!---
-Esha-Tech-Journey/Esha-Tech-Journey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Technical Areas
+Languages & Core Concepts: • Python, Object-Oriented Programming, Data Structures & Algorithms
+
+Backend Development: • Django, Django REST Framework (DRF), FastAPI
+
+API Engineering: • REST APIs, API Integration, Authentication & Authorization (JWT, OAuth2)
+
+AI & Machine Learning: • Generative AI, Large Language Models (LLMs), Natural Language Processing (NLP), Machine Learning, AI Integration
+
+Databases: • PostgreSQL, MySQL, SQL, Database Schema Design
+
+DevOps & Tools: • Git, GitHub, GitLab, CI/CD Pipelines, Docker
+
+Testing: • Unit Testing, Pytest, Test-Driven Development (TDD)
+
+Cloud Fundamentals: • AWS (EC2, S3, Lambda)
+
+Architecture Interests: • Microservices, Asynchronous Programming, Concurrency
+
+I'm passionate about building scalable backend systems, improving software quality, and continuously learning new technologies. My goal is to grow into a well-rounded engineer who contributes to impactful systems and collaborates with talented teams to solve complex engineering problems.
+
+I'm always open to connecting with professionals in backend engineering, Python development, AI/ML technologies, distributed systems, and cloud technologies.
